@@ -13,7 +13,7 @@ Plate Trace is an online web application for license plate recognition which is 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/96954007/185805743-73621728-41ac-4aed-9947-8fb1274bb25f.png" width="49%" />
   &ensp;
-  <img src="https://user-images.githubusercontent.com/96954007/185805762-467932f4-1c8e-4e87-96b7-23677276c5e3.png" width="49%"  /> 
+  <img src="https://user-images.githubusercontent.com/96954007/185805762-467932f4-1c8e-4e87-96b7-23677276c5e3.png" width="49%" /> 
 </p>
 
 ## Implementation
