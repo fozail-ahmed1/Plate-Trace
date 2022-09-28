@@ -1,4 +1,4 @@
-# Plate Trace - License Plate Recognition
+# Plate Trace - Automatic License Plate Recognition
 
 Plate Trace is an online web application for license plate recognition which is used for producing accurate license plate number detection. It acts as a supporting software for a system of cameras that capture license plate information and instantly delivers us with accurate license number which is used for effective law enforcement regarding traffic violations. It is also used in the commercial industry for parking management, gated communities, Security monitoring and border crossings, Automated collection of tolls and toll booth records.
 
